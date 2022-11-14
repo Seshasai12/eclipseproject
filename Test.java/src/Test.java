@@ -9,6 +9,9 @@ public class Test {
 	void meth() {
 		System.out.println("hi");
 	}
+	void meth2() {
+		System.out.println("hi");
+	}
 	
     //Default constructor
 	public Test() {
