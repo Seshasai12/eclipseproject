@@ -6,7 +6,9 @@ public class Test {
 	String name;
 	String breed;
 	
-	
+	void meth() {
+		System.out.println("hi");
+	}
 	
     //Default constructor
 	public Test() {
